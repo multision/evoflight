@@ -1,0 +1,634 @@
+{
+    "apps": [
+             {
+             "image": "https://ipafiles.tk/img/spotify++.png",
+             "name": "Spotify++",
+             "category": "No Ads, Seeking Enabled, No Forced Shuffle, Unlimited Skips, Extreme Quality stream enabled, Import songs from Music app.",
+             "ipa": "https://ipafiles.tk/spotify++.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/640.png",
+             "name": "Reddit++",
+             "category": "This tweaked version allows the user to view deleted posts retrieved by pushshift.io. and removes Ads.",
+             "ipa": "https://ipafiles.tk/reddit.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/574.png",
+             "name": "Calm++",
+             "category": "Enabled Premium Features & Content, Downloading without creating an account.",
+             "ipa": "https://ipafiles.tk/calm.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/466.png",
+             "name": "Mediabox HD ++ (No Ads)",
+             "category": "The Best Entertainment App For You And Your Family.",
+             "ipa": "https://ipafiles.tk/mediaboxhd.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/161.png",
+             "name": "Cercube 5",
+             "category": "Cercube 5 is the best all-in-one video download extension for the YouTube app.",
+             "ipa": "https://ipafiles.tk/cercube.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/159.png",
+             "name": "Rocket for Instagram",
+             "category": "Rocket enriches Instagram client with loads of features!",
+             "ipa": "https://ipafiles.tk/igrocket.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/114.png",
+             "name": "YouTube Music",
+             "category": "Only Audio Mode, Background Playback, No Ads",
+             "ipa": "https://ipafiles.tk/ytmusic.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/041.png",
+             "name": "Twitter++",
+             "category": "Tweaked version of Twitter with many plus features.",
+             "ipa": "https://ipafiles.tk/twitter++.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/044.png",
+             "name": "Deezer Music",
+             "category": "Unlocked all premium features",
+             "ipa": "https://ipafiles.tk/deezer.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/097.png",
+             "name": "SoundCloud",
+             "category": "Full Premium Features, Unrestricted Country",
+             "ipa": "https://ipafiles.tk/soundcloud++.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/566.png",
+             "name": "Instagram (Rhino)",
+             "category": "A simple, lightweight Instagram tweak with powerful features",
+             "ipa": "https://ipafiles.tk/igrhino.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/658.png",
+             "name": "iPOGO",
+             "category": "With iPogo you get a full set of tools to help you be the best.",
+             "ipa": "https://ipafiles.tk/ipogo.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/651.png",
+             "name": "OrNET++",
+             "category": "Enabled Premium Features And VPN.",
+             "ipa": "https://ipafiles.tk/ornetpp.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/661.png",
+             "name": "ZiniTevi++",
+             "category": "App for Streaming Movies, Series on iPhoneOS, iPadOS devices.",
+             "ipa": "https://ipafiles.tk/zinitevi.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/035.png",
+             "name": "Facebook++",
+             "category": "Tweaked version of Facebook with many features",
+             "ipa": "https://ipafiles.tk/facebook.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/570.png",
+             "name": "Focos+",
+             "category": "Unlocked PRO!",
+             "ipa": "https://ipafiles.tk/focos.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/554.png",
+             "name": "TV Cast for SamsungTV++",
+             "category": "Unlock Full Premium Features for the app.",
+             "ipa": "https://ipafiles.tk/tvcastforsamsungtv.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/629.png",
+             "name": "Unfold++ (32/64-bit)",
+             "category": "Enables many templates in Unfold.",
+             "ipa": "https://ipafiles.tk/unfold3264bit.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/629.png",
+             "name": "Unfold++ (64-bit)",
+             "category": "Enables many templates in Unfold.",
+             "ipa": "https://ipafiles.tk/unfold64bit.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/194.png",
+             "name": "WhatsApp (w/ Watusi)",
+             "category": "Watusi is your all-in-one tweak for WhatsApp messenger.",
+             "ipa": "https://ipafiles.tk/whatappwatusi.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/656.png",
+             "name": "Anime Slayer",
+             "category": "No Ads, All Episodes unlocked.",
+             "ipa": "https://ipafiles.tk/animeslayer.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/655.png",
+             "name": "Instagram++",
+             "category": "Tweaked version of Instagram with many cool features.",
+             "ipa": "https://ipafiles.tk/instagram.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/295.png",
+             "name": "Jodel++",
+             "category": "Enable Channels, Enable Copy & Paste, Enable Save Post Photo, Add New Traveller Feed etc.",
+             "ipa": "https://ipafiles.tk/jodel.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/652.png",
+             "name": "Tab3 Live",
+             "category": "Watch soccer channels without ads.",
+             "ipa": "https://ipafiles.tk/tab3live.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/650.png",
+             "name": "Tor Browser++",
+             "category": "Enabled Premium, No Ads, Faster Servers, Unlimited Downloads.",
+             "ipa": "https://ipafiles.tk/torbrowser.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/645.png",
+             "name": "VK++",
+             "category": "VK unites millions of people through the messaging and sharing of news from anywhere around the globe.",
+             "ipa": "https://ipafiles.tk/vk.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/643.png",
+             "name": "Crunchyroll++",
+             "category": "Stream Japan's most popular anime with Crunchyroll.",
+             "ipa": "https://ipafiles.tk/crunchyroll.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/642.png",
+             "name": "Quran PRO",
+             "category": "Offline play, NoAds.",
+             "ipa": "https://ipafiles.tk/quranpro.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/504.png",
+             "name": "TextNow++",
+             "category": "Give your friends your very own phone number!",
+             "ipa": "https://ipafiles.tk/textnow.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/639.png",
+             "name": "SleepRecorder++",
+             "category": "Record your snoring or what you say while you sleep.",
+             "ipa": "https://ipafiles.tk/sleeprecorder.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/636.png",
+             "name": "Mojo++",
+             "category": "Create stunning Video Stories.",
+             "ipa": "https://ipafiles.tk/mojo.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/049.png",
+             "name": "WhatsPad++",
+             "category": "Watusi Optimized for iPad!",
+             "ipa": "https://ipafiles.tk/whatspad.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/635.png",
+             "name": "audioMack++",
+             "category": "Unlocked Pro Version.",
+             "ipa": "https://ipafiles.tk/audiomack.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/043.png",
+             "name": "2016-17 NBA App++",
+             "category": "Tweaked version of NBA App.",
+             "ipa": "https://ipafiles.tk/201617nbaapp.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/203.png",
+             "name": "WhatsApp WatusiGold",
+             "category": "WhatsApp+ : Bringing the most-requested features to WhatsApp.",
+             "ipa": "https://ipafiles.tk/whatsappwatusigold.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/099.png",
+             "name": "ProTube for YouTube",
+             "category": "Bypass DRM Protection.",
+             "ipa": "https://ipafiles.tk/protubeforyoutube.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/047.png",
+             "name": "Vine++",
+             "category": "Download videos from Vine to your camera roll. Turn off autoplay.",
+             "ipa": "https://ipafiles.tk/vine.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/050.png",
+             "name": "VK + VKsettings",
+             "category": "VKSettings is an application for mobile devices that run on iOS operating systems.",
+             "ipa": "https://ipafiles.tk/vkvksettings.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/563.png",
+             "name": "Tubio++",
+             "category": "Enable Full Premium Features.",
+             "ipa": "https://ipafiles.tk/tubio.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/633.png",
+             "name": "VideoStar++",
+             "category": "Video Star makes you and your friends the stars of awesome music videos. There's no other app like it!",
+             "ipa": "https://ipafiles.tk/videostar.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/627.png",
+             "name": "Smule VIP",
+             "category": "Love music? With Smule, you can sing and make music with friends and fans around the world!",
+             "ipa": "https://ipafiles.tk/smulevip.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/046.png",
+             "name": "WhatsApp++",
+             "category": "WhatsApp++ by Unlimapps : Bringing the most-requested features to WhatsApp.",
+             "ipa": "https://ipafiles.tk/whatsapp.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/597.png",
+             "name": "Glazba",
+             "category": "Music player with VK support.",
+             "ipa": "https://ipafiles.tk/glazba.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/204.png",
+             "name": "Tinder++",
+             "category": "Tinder Premium, Tinder Select, Unlimited Super Like.",
+             "ipa": "https://ipafiles.tk/tinder.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/530.png",
+             "name": "KineMaster Hack",
+             "category": "KineMaster Subscription Lifetime.",
+             "ipa": "https://ipafiles.tk/kinemasterhack.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/232.png",
+             "name": "Twitch",
+             "category": "No Video Ads On Twitch.",
+             "ipa": "https://ipafiles.tk/twitch.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/568.png",
+             "name": "Audiomack++",
+             "category": "No Ads, HiFi enabled, and Airplay your Music to Other Devices.",
+             "ipa": "https://ipafiles.tk/audiomack.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/624.png",
+             "name": "TV Cast for LG++",
+             "category": "Enabled Full Premium Features.",
+             "ipa": "https://ipafiles.tk/tvcastforlg.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/625.png",
+             "name": "TV Cast for Roku++",
+             "category": "Enabled Full Premium Features.",
+             "ipa": "https://ipafiles.tk/tvcastforroku.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/626.png",
+             "name": "TV Cast for Google Cast++",
+             "category": "Enabled Full Premium Features.",
+             "ipa": "https://ipafiles.tk/tvcastforgooglecast.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/476.png",
+             "name": "Sleep Cycle++",
+             "category": "Wake up feeling rested with Sleep Cycle. Track your sleep and get analysis.",
+             "ipa": "https://ipafiles.tk/sleepcycle.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/593.png",
+             "name": "PicsArt++",
+             "category": "Tweaked verison of PicsArt.",
+             "ipa": "https://ipafiles.tk/picsart.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/589.png",
+             "name": "AnimeGT++",
+             "category": "No Ads On AnimeGT.",
+             "ipa": "https://ipafiles.tk/animegt.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/040.png",
+             "name": "Youtube++",
+             "category": "Tweaked version of Youtube with many cool features.",
+             "ipa": "https://ipafiles.tk/youtube.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/551.png",
+             "name": "WhatsApp Watusi-No Ads",
+             "category": "Added Tools: WhatsAppFix, WAImpactor, wag.",
+             "ipa": "https://ipafiles.tk/whatsappwatusinoads.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/553.png",
+             "name": "WhatsApp Business Watusi",
+             "category": "Tweaked version of WhatsApp with many cool features.",
+             "ipa": "https://ipafiles.tk/whatsappbusinesswatusi.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/555.png",
+             "name": "TV Cast for DLNA++",
+             "category": "Unlock Full Premium Features for the app.",
+             "ipa": "https://ipafiles.tk/tvcastfordlna.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/483.png",
+             "name": "Speedtest++",
+             "category": "No Ads.",
+             "ipa": "https://ipafiles.tk/speedtest.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/550.png",
+             "name": "TikTokDLEasy",
+             "category": "Apply tiktok with built-in DLEasy tool.",
+             "ipa": "https://ipafiles.tk/tiktokdleasy.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/540.png",
+             "name": "Spotify++ (w/ Spos)",
+             "category": "Spotify with premium features.",
+             "ipa": "https://ipafiles.tk/spotifyspos.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/548.png",
+             "name": "Repost for Instagram",
+             "category": "No Login, No Coins Required!",
+             "ipa": "https://ipafiles.tk/repostforinstagram.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/545.png",
+             "name": "Tw1ttz",
+             "category": "Ultimate Tweaks for Twitter.",
+             "ipa": "https://ipafiles.tk/tw1ttz.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/448.png",
+             "name": "IGNite",
+             "category": "An amazing Instagram alternative.",
+             "ipa": "https://ipafiles.tk/ignite.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/341.png",
+             "name": "Cercube 5 for YouTube (No Ads)",
+             "category": "No ads version of cercube.",
+             "ipa": "https://ipafiles.tk/cercube5noads.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/111.png",
+             "name": "Saavn",
+             "category": "PRO unlocked.",
+             "ipa": "https://ipafiles.tk/saavn.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/529.png",
+             "name": "Photomath+",
+             "category": "Photomath Plus lifetime.",
+             "ipa": "https://ipafiles.tk/photomath.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/477.png",
+             "name": "Rocket For Instagram (No Ads)",
+             "category": "Banner ads are disabled.",
+             "ipa": "https://ipafiles.tk/rocketinstanoads.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/048.png",
+             "name": "Pandora",
+             "category": "No Ads, High Quality Stream, Downloads, Unlimited Skips, Unrestricted country, No Delay Button Skip, No 180 minutes timeout.",
+             "ipa": "https://ipafiles.tk/pandora.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/508.png",
+             "name": "TwittDL",
+             "category": "Download images & videos from social apps easily! Long press to save video and image.",
+             "ipa": "https://ipafiles.tk/twittdl.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/101.png",
+             "name": "Hotspot Shield",
+             "category": "Free Premium Hotspot Shield.",
+             "ipa": "https://ipafiles.tk/hotspotshield.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/339.png",
+             "name": "BBM Plus",
+             "category": "Unlimited Pings, Hide Read Status, Hide Typing, Timed Messages Forever, Confirm Voice Call and Video Call, Hide StatusBar, Disable Ads, Full Screen For iPAD and iPhone X.",
+             "ipa": "https://ipafiles.tk/bbmplus.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/456.png",
+             "name": "WhatsAll",
+             "category": "WhatsAll by DzMohaipa : Bringing the most-requested features to WhatsApp.",
+             "ipa": "https://ipafiles.tk/whatsall.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/460.png",
+             "name": "TwitterLabs",
+             "category": "Twitter Labs unlocks a range hidden settings from within the app that you typically couldn’t access on a stock device.",
+             "ipa": "https://ipafiles.tk/twitterlabs.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/249.png",
+             "name": "SaveCloud for SoundCloud",
+             "category": "Download songs from official SoundCloud app.",
+             "ipa": "https://ipafiles.tk/savecloud.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/458.png",
+             "name": "Crunchyroll++",
+             "category": "Stream Japan's most popular anime with Crunchyroll.",
+             "ipa": "https://ipafiles.tk/crunchyroll.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/115.png",
+             "name": "UFC",
+             "category": "Full access unlocked.",
+             "ipa": "https://ipafiles.tk/ufc.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/451.png",
+             "name": "TWPlus",
+             "category": "Add save button from DM and also copy link.",
+             "ipa": "https://ipafiles.tk/twplus.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/438.png",
+             "name": "TwitterDarkPlus",
+             "category": "An amazing Twitter alternative.",
+             "ipa": "https://ipafiles.tk/twitterdarkplus.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/385.png",
+             "name": "WhatsApp Watusi (No Ads).",
+             "category": "Features: No Ads.",
+             "ipa": "https://ipafiles.tk/whatsappwatusinoads.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/112.png",
+             "name": "Tweetbot 4",
+             "category": "DRM bypass",
+             "ipa": "https://ipafiles.tk/tweetbot4.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/401.png",
+             "name": "Kik++",
+             "category": "Modified version of Kik that makes gallery images seem as if they were taken by the camera.",
+             "ipa": "https://ipafiles.tk/kik.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/100.png",
+             "name": "Plex",
+             "category": "All premium features unlocked (except Offline Sync).",
+             "ipa": "https://ipafiles.tk/plex.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/102.png",
+             "name": "Betternet",
+             "category": "Premium unlocked.",
+             "ipa": "https://ipafiles.tk/betternet.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/202.png",
+             "name": "Snapchat SCOthman",
+             "category": "Tweaked version of Snapchat. Your account may be blocked, **Install at your own risk**",
+             "ipa": "https://ipafiles.tk/snapchatscothman.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/261.png",
+             "name": "Whatsapp++ w/ OnlineNotify",
+             "category": "Tweaked version with many features.",
+             "ipa": "https://ipafiles.tk/whatsapponlinenotify.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/095.png",
+             "name": "Napster",
+             "category": "Full premium features unlocked.",
+             "ipa": "https://ipafiles.tk/napster.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/074.png",
+             "name": "Snapchat Phantom Lite",
+             "category": "Tweaked version of Snapchat. Your account may be blocked, **Install at your own risk**",
+             "ipa": "https://ipafiles.tk/snapchatphantomlite.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/030.png",
+             "name": "Snapchat++",
+             "category": "Tweaked version of Snapchat. Your account may be blocked, **Install at your own risk**",
+             "ipa": "https://ipafiles.tk/snapchat.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/631.png",
+             "name": "Image Size (No Ads)",
+             "category": "Ads Removed in the app.",
+             "ipa": "https://ipafiles.tk/imagesizenoads.ipa"
+             },
+             {
+             "image": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/c1/e9/55/c1e95588-101e-0c94-de1c-76ad5a398e4d/source/100x100bb.jpg",
+             "name": "Duolingo Modded",
+             "category": "Hack Features: PREMIUM. Duolingo, the most popular way to learn languages! It’s free, fun and effective.",
+             "ipa": "https://ipafiles.tk/duolingo.ipa"
+             },
+             {
+             "image": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/cd/b3/cc/cdb3cc85-a7bb-dbe5-b0e8-a9fdef636a12/source/512x512bb.jpg",
+             "name": "TikTok Unicorn",
+             "category": "Download Videos, Download User's Profile Image, LIVE enhancements, Type more than 50 characters in live streams etc.",
+             "ipa": "https://ipafiles.tk/tiktokunicorn.ipa"
+             },
+             {
+             "image": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/0b/89/a3/0b89a34c-e90a-2469-8872-0e6b3155c40d/source/512x512bb.jpg",
+             "name": "Twitter No Ads",
+             "category": "Hack Features: Remove Sponsored Twitter Post.",
+             "ipa": "https://ipafiles.tk/twitternoads.ipa"
+             },
+             {
+             "image": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/d1/4c/12/d14c124b-3f39-0919-695f-6d2ce0cbb57f/source/512x512bb.jpg",
+             "name": "Symbolab Calculator Hack",
+             "category": "Features: Cracked/FREE IPA. Premium Enabled! Your private math tutor, solves any math problem with steps!",
+             "ipa": "https://ipafiles.tk/symbolab.ipa"
+             },
+             {
+             "image": "https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/08/b6/4c/08b64c54-9201-47d6-ae17-e33ca1be5a0f/source/512x512bb.jpg",
+             "name": "Facebook No Ads",
+             "category": "Hack Features: Remove Sponsored Post.",
+             "ipa": "https://ipafiles.tk/facenoads.ipa"
+             },
+             {
+             "image": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/d0/75/2d/d0752d2f-5fbe-33a4-3657-37e17f9ce9ae/source/512x512bb.jpg",
+             "name": "Musi - Simple Music Streaming Modded (No Ads)",
+             "category": "Hack Features: Free No Ads Purchase (Press Cancle).",
+             "ipa": "https://ipafiles.tk/musisimple.ipa"
+             },
+             {
+             "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/04/1d/e2/041de250-416f-741e-6b85-10f0d7ef9177/source/100x100bb.jpg",
+             "name": "Apollo for Reddit",
+             "category": "Hack Features: Free Apollo Pro Purchase (Not Ultra).",
+             "ipa": "https://ipafiles.tk/apolloreddit.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/manga.png",
+             "name": "Manga Rock Modded",
+             "category": "Hack Features: PREMIUM + Unlimited Downloads + No Ads + Sync your reading progress.",
+             "ipa": "https://ipafiles.tk/mangarock.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/line2.png",
+             "name": "Line 2",
+             "category": "Line 2 for iOS with tweaked features.",
+             "ipa": "https://ipafiles.tk/line2.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/tumblr.png",
+             "name": "Tumblr++",
+             "category": "Tumblr++ for iOS with tweaked features.",
+             "ipa": "https://ipafiles.tk/tumblr.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/lastpass.png",
+             "name": "LastPass++",
+             "category": "LastPass++ for iOS with tweaked features.",
+             "ipa": "https://ipafiles.tk/lastpass.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/spotult.png",
+             "name": "SpotUlt++",
+             "category": "SpotUlt++ included Tweaks: Spotilife. Sposify. Spotify Equalizer Enhancer. Lyrication. Play Next or Play Last. Spotify Playlist Number of Songs. Annotation.",
+             "ipa": "https://ipafiles.tk/spotult.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/cpuxpro.png",
+             "name": "CPU-X PRO",
+             "category": "Unlocked all features. CPU X shows most complete information about devices like processor, cores, speed, model, RAM, camera, sensors etc.",
+             "ipa": "https://ipafiles.tk/cpuxpro.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/smmpro.png",
+             "name": "SMPro++",
+             "category": "SMMPro Unlocked features.",
+             "ipa": "https://ipafiles.tk/smmpro.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/magiceraser.png",
+             "name": "Magic Eraser++",
+             "category": "Pro Enabled.",
+             "ipa": "https://ipafiles.tk/magiceraser.ipa"
+             },
+             {
+             "image": "https://ipafiles.tk/img/mediaboxnobgplay.png",
+             "name": "MediaBox HD ++ (No BG Play)",
+             "category": "No Ads in-App.",
+             "ipa": "https://ipafiles.tk/mediaboxnobgplay.ipa"
+             }
+]
+}
