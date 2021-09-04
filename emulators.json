@@ -1,0 +1,100 @@
+{
+    "apps": [
+             {
+             "image": "https://appsmirror.com/wp-content/uploads/2019/04/Delta_icon-1024x1024.png",
+             "name": "Delta",
+             "category": "Multi-console emulator.",
+             "ipa": "https://ios.vsharepe.com/emulators/delta-emulator.ipa"
+             },
+             {
+             "image": "https://iosninja.io/img/ipas/dolphinios.png",
+             "name": "DolphiniOS",
+             "category": "A Powerful GameCube / Wii console emulator.",
+             "ipa": "https://ios.vsharepe.com/emulators/dolphinios.ipa"
+             },
+             {
+             "image": "http://iemulators.org/wp-content/uploads/2019/01/Delta-Emulator.png",
+             "name": "GBA4iOS",
+             "category": "GBA, GB, GBC emulator.",
+             "ipa": "https://gba4ios.herokuapp.com/download/1.6.2/GBA4iOS.ipa"
+             },
+             {
+             "image": "https://68.media.tumblr.com/a4f0f388a88a115af819aff3816ee6a2/tumblr_nf3hav6z0Z1qzhxrto3_r1_540.png",
+             "name": "GBA4IOS 2.1",
+             "category": "Multi-Player support (GBA, GB, GBC).",
+             "ipa": "https://ios.vsharepe.com/emulators/gba4ios-2.1.ipa"
+             },
+             {
+             "image": "https://tweak-box.com/wp-content/uploads/2019/07/gearboy.png",
+             "name": "GearBoy",
+             "category": "Game Boy and Game Boy Color emulator.",
+             "ipa": "https://ios.vsharepe.com/emulators/Gearboy.ipa"
+             },
+             {
+             "image": "https://app.ipalibrary.net/wp-content/uploads/gc4ios-wii.png",
+             "name": "GC4iOS",
+             "category": "GameCube / Wii console emulator.",
+             "ipa": "https://ios.vsharepe.com/emulators/gc4ios.ipa"
+             },
+             {
+             "image": "https://i1.wp.com/www.techora.net/wp-content/uploads/2018/09/happychick.png?fit=1024%2C1024&ssl=1",
+             "name": "Happy Chick",
+             "category": "Multi-console emulator app (FAB, MAME, GBA, GB, GBC, SNES, NES, NDS, Game cube, RetroArch, PSP, PSP1, SFC, MD, FC).",
+             "ipa": "https://ios.vsharepe.com/emulators/Happy-Chick.ipa"
+             },
+             {
+             "image": "https://apprecs.org/ios/images/app-icons/256/80/918131840.jpg",
+             "name": "iDOS 2",
+             "category": "DOS emulator.",
+             "ipa": "https://ios.vsharepe.com/emulators/iDos-2.ipa"
+             },
+             {
+             "image": "https://40.media.tumblr.com/ed7b09318836d3141ba76d08c90bb698/tumblr_ndvb13aQwm1qzhxrto1_540.png",
+             "name": "iSSB",
+             "category": "Mobile version of the Super Smash Bros Game.",
+             "ipa": "https://ios.vsharepe.com/emulators/iSSB.ipa"
+             },
+             {
+             "image": "https://pbs.twimg.com/profile_images/671742410624380928/WDnGaXMC.png",
+             "name": "iNDS",
+             "category": "Nintendo DS emulator.",
+             "ipa": "https://ios.vsharepe.com/emulators/iNDS.ipa"
+             },
+             {
+             "image": "https://tweak-box.com/wp-content/uploads/emus4u/2019/05/nds4ios-icon-200px-120x120.png",
+             "name": "NDS4iOS",
+             "category": "Nintendo DS emulator.",
+             "ipa": "https://tweak-box.com/files/nds4ios.ipa"
+             },
+             {
+             "image": "https://v3v9d2b8.rocketcdn.me/wp-content/uploads/2018/03/NES.emu_.png",
+             "name": "NES.Emu",
+             "category": "NES / Famicon emulator.",
+             "ipa": "https://ios.vsharepe.com/emulators/NES.emu.ipa"
+             },
+             {
+             "image": "https://40.media.tumblr.com/e9a33d576f7af3554fa2f0f33f96857f/tumblr_o2dcltp2681qzhxrto1_250.png",
+             "name": "NewGamePad",
+             "category": "All-in-one Nintendo Multi-console emulator.",
+             "ipa": "https://ios.vsharepe.com/emulators/newgamepad.ipa"
+             },
+             {
+             "image": "https://pbs.twimg.com/profile_images/847765902015725568/98bDIA4O_400x400.jpg",
+             "name": "PPSSPP",
+             "category": "PSP emulator.",
+             "ipa": "https://ios.vsharepe.com/emulators/ppsspp.ipa"
+             },
+             {
+             "image": "https://operationidroid.com/assets/img/retroarch-icon.jpg",
+             "name": "RetroArch",
+             "category": "Multi-console emulator (GBA, GBC, GB, NDS, NES, GameCube/Wii, N64, PSP, PS1, N64).",
+             "ipa": "https://ios.vsharepe.com/emulators/RetroArch-1.9.ipa"
+             },
+             {
+             "image": "http://iemulators.org/wp-content/uploads/2019/01/SNES4iOS.png",
+             "name": "SNES4iOS",
+             "category": "SNES emulator.",
+             "ipa": "https://ios.vsharepe.com/emulators/Snes4ios.ipa"
+             }
+]
+}
