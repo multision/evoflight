@@ -1,0 +1,34 @@
+{
+    "apps": [
+             {
+             "image": "https://styles.redditmedia.com/t5_44g44u/styles/communityIcon_4qc4sp6hexp61.png",
+             "name": "reKairos (Zeus)"
+             "category": "Latest Fortnite on iOS (NVIDIA GeForce Now)
+             "ipa": "https://github.com/mlostekk/reKairos/raw/main/IPA/reKairos-v16.0.3.16.ipa"
+             },
+             {
+             "image": "https://appsmirror.com/wp-content/uploads/2019/04/Delta_icon-1024x1024.png",
+             "name": "Delta",
+             "category": "Multi-console emulator.",
+             "ipa": "https://ios.vsharepe.com/emulators/delta-emulator.ipa"
+             },
+             {
+             "image": "https://iosninja.io/img/ipas/dolphinios.png",
+             "name": "DolphiniOS",
+             "category": "A Powerful GameCube / Wii console emulator.",
+             "ipa": "https://ios.vsharepe.com/emulators/dolphinios.ipa"
+             },
+             {
+             "image": "https://68.media.tumblr.com/a4f0f388a88a115af819aff3816ee6a2/tumblr_nf3hav6z0Z1qzhxrto3_r1_540.png",
+             "name": "GBA4IOS 2.1",
+             "category": "Multi-Player support (GBA, GB, GBC).",
+             "ipa": "https://ios.vsharepe.com/emulators/gba4ios-2.1.ipa"
+             },
+             {
+             "image": "https://pbs.twimg.com/profile_images/847765902015725568/98bDIA4O_400x400.jpg",
+             "name": "PPSSPP",
+             "category": "PSP emulator.",
+             "ipa": "https://ios.vsharepe.com/emulators/ppsspp.ipa"
+             }
+]
+}
